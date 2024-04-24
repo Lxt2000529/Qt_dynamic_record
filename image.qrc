@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Login_bac.png</file>
+        <file>image/exit.png</file>
+        <file>image/deleteBtn.png</file>
+        <file>image/editBtn.png</file>
+    </qresource>
+</RCC>
